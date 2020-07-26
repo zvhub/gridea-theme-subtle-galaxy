@@ -4,8 +4,11 @@
 > 欢迎使用本人另外自制的一个主题 [Space](https://github.com/GalaxySuze/gridea-theme-space) 
 
 ### 安装方法
-- 克隆项目到本地
-- 复制「 subtle-galaxy 」目录到「 Gridea 」主题文件中
+- 克隆项目到「 Gridea 」主题文件中
+```shell
+$ cd ~/Documents/Gridea/themes
+$ git clone https://github.com/dhuijiang/gridea-theme-subtle-galaxy.git subtle-galaxy
+```
 - 重启「 Gridea 」客户端
 - 在主题中选择「 Subtle Galaxy 」主题，点击保存
 - 预览查看效果
